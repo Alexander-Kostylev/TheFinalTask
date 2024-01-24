@@ -1,0 +1,14 @@
+C:\Костылев\Учеба\FinalTaskIntroBlock\TheFinalTask\bin\Debug\net7.0\TheFinalTask.exe
+C:\Костылев\Учеба\FinalTaskIntroBlock\TheFinalTask\bin\Debug\net7.0\TheFinalTask.deps.json
+C:\Костылев\Учеба\FinalTaskIntroBlock\TheFinalTask\bin\Debug\net7.0\TheFinalTask.runtimeconfig.json
+C:\Костылев\Учеба\FinalTaskIntroBlock\TheFinalTask\bin\Debug\net7.0\TheFinalTask.dll
+C:\Костылев\Учеба\FinalTaskIntroBlock\TheFinalTask\bin\Debug\net7.0\TheFinalTask.pdb
+C:\Костылев\Учеба\FinalTaskIntroBlock\TheFinalTask\obj\Debug\net7.0\TheFinalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Костылев\Учеба\FinalTaskIntroBlock\TheFinalTask\obj\Debug\net7.0\TheFinalTask.AssemblyInfoInputs.cache
+C:\Костылев\Учеба\FinalTaskIntroBlock\TheFinalTask\obj\Debug\net7.0\TheFinalTask.AssemblyInfo.cs
+C:\Костылев\Учеба\FinalTaskIntroBlock\TheFinalTask\obj\Debug\net7.0\TheFinalTask.csproj.CoreCompileInputs.cache
+C:\Костылев\Учеба\FinalTaskIntroBlock\TheFinalTask\obj\Debug\net7.0\TheFinalTask.dll
+C:\Костылев\Учеба\FinalTaskIntroBlock\TheFinalTask\obj\Debug\net7.0\refint\TheFinalTask.dll
+C:\Костылев\Учеба\FinalTaskIntroBlock\TheFinalTask\obj\Debug\net7.0\TheFinalTask.pdb
+C:\Костылев\Учеба\FinalTaskIntroBlock\TheFinalTask\obj\Debug\net7.0\TheFinalTask.genruntimeconfig.cache
+C:\Костылев\Учеба\FinalTaskIntroBlock\TheFinalTask\obj\Debug\net7.0\ref\TheFinalTask.dll
